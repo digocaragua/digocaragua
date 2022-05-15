@@ -1,39 +1,51 @@
-Hi, I'm Rodrigo! (@digocaragua)
+🌎 Nationality: Brazilian (Stamp 4 Visa)
+✔Bilingual (Portuguese and English)
+✉ digocaragua@gmail.com | ☎ +353 083 345 2467
 
-I'm experienced with more than 10 years in the IT field. I'd define myself as a fast learner, enthusiastic, responsible and excellent team player. 
-I'm a very easy-going person who is keen on helping people and learn from them. I've got massive knowledge of IT and have built tons of projects using the .NET platform (C#) 
-in most of them. I'm passionate about building software. I also love learning and I love people!
-
-🔘 Expertise
-
-- Bachelor Degree in Technology (graduated in 2008)
-- .NET Platform (C#, ASP.NET, .NET CORE, MVC)
-- Amazon AWS Services (DynamoDB, Lambda, S3, SQS, SES, SNS, etc)
-- HTML5, CSS, SASS, Javascript, JQuery
-- SQL Server / MySQL / FireBase / DynamoDB
-- WordPress
-- Ionic (Cross Platform Mobile App)
-- Angular 7+ / Typescript
-- NGX Angular Library
-- Design Patterns: DI / Singleton / MVVM / DomainDrivenDesign
-- JIRA and Bitbucket (GIT) / SVN
-- Web API (swagger)
-- Software architecture using Microsoft ASP.Net MVC, Entity Framework and .NET Core
-- Amazon AWS EcoSystem (RDS, S3, DynamoDB, SES, SQS, Lambda, SNS, CloudFront, CloudWatch, etc)
-- Bootstrap Framework
-- Visual Studio / Visual Studio Code
+I am an experienced Full Stack Solutions Developer with a bachelor's degree (2008) and more than 10 years of tech knowledge and massive projects in my background. I would define myself as a quick learner, enthusiastic, responsible and excellent team player. I am a very easy-going and extroverted person who is always keen on helping others and learning from them. Passionate about building software and addicted to technology and the IT area!
 
 
-🎯 DiSC Behavioural Universal Test
-Result: High INFLUENTIAL
+💻 Expertise / Key Development Skills
 
-DiSC® is the leading personal assessment tool used by over 1 million people every year to improve work productivity, teamwork and communication. The DiSC profile is a non-judgmental tool used for discussion of people's behavioural differences.
+ - .NET Platform (C#, ASP.NET, .NET Core, MVC, .NET Framework)
+ - AWS (Experience with more than 20 services)
+ - HTML, CSS, Javascript (JQuery, NodeJS)
+ - SQL Server | MySQL | RedShift | DynamoDB | MongoDB
+ - Angular 7+ | Bootstrap | Material Design | NGX
+ - API (REST, SOAP)
+ - GIT | Bitbucket | JIRA | Scrum
+ - Architecture | Microservices
 
-☕️ Favourite Quotes
-"Hell is other people" - Jean-Paul Sartre
-"Hire Character. Train Skills." - Peter Schutz
 
-💭 "You are the average of the 5 people you spend the most time with."
+📚 Doing at the moment
+
+ - AWS Developer Associate Certification 
+ - Writing Technical Articles on Medium
+ - Serverless Applications (DynamoDB + API Gateway + Lambda)
+ - Software Architecture and Microservices
+ - MEAN Stack (Mongo, ExpressJS, Angular, NodeJS)
+
+🎯 DiSC Behavioural Universal Test 
+ - Result: A High INFLUENTIAL person
+
+💭 Favourite Quotes
+
+ - "Hire Character. Train Skills."
+ - "You are the average of the 5 people you spend the most time with."
+ - "If you wanna have a life nobody has, you gotta do things nobody does".
+
+🃏 Funny Facts
+
+ - In 2018 I came to Ireland with no English at all and after 1 year I reached the Advanced level.
+ - I collect Cuban cigars and everywhere I go I try to buy a different one. 
+ - During my spare time I study Investments, mostly the Stocks Market and Cryptos.
+
+
+I always look to grow my personal and professional network. Feel free to connect via LinkedIn, email me to digocaragua@gmail.com or follow me on:
+
+Medium: @rmirandaa
+Instagram: @rmiranda.jpg
+Site: rodrigomiranda.eu
 
 
 <!---
