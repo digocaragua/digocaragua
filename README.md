@@ -19,10 +19,10 @@ I am an experienced Full Stack Solutions Developer with a bachelor's degree (200
 
 Feel free to get in touch:
 
- - Linkedin https://www.linkedin.com/in/rmirandaa/
+ - Linkedin https://www.linkedin.com/in/roomirandaa
  - Medium https://medium.com/@rmirandaa
  - Instagram: https://www.instagram.com/rmiranda.jpg
- - Site https://rodrigomiranda.eu/
+ - Site https://rodrigomiranda.eu
 
 
 <!---
