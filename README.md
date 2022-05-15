@@ -16,6 +16,7 @@ I am an experienced Full Stack Solutions Developer with a bachelor's degree (200
  - "If you wanna have a life nobody has, you gotta do things nobody does".
 
 
+
 Feel free to get in touch:
 
  - Linkedin https://www.linkedin.com/in/rmirandaa/
