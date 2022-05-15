@@ -16,10 +16,12 @@ I am an experienced Full Stack Solutions Developer with a bachelor's degree (200
  - "If you wanna have a life nobody has, you gotta do things nobody does".
 
 
-Linkedin https://www.linkedin.com/in/rmirandaa/
-Medium https://medium.com/@rmirandaa
-Instagram: https://www.instagram.com/rmiranda.jpg
-Site https://rodrigomiranda.eu/
+Feel free to get in touch:
+
+ - Linkedin https://www.linkedin.com/in/rmirandaa/
+ - Medium https://medium.com/@rmirandaa
+ - Instagram: https://www.instagram.com/rmiranda.jpg
+ - Site https://rodrigomiranda.eu/
 
 
 <!---
