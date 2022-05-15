@@ -40,9 +40,6 @@ I am an experienced Full Stack Solutions Developer with a bachelor's degree (200
  - I collect Cuban cigars and everywhere I go I try to buy a different one. 
  - During my spare time I study Investments, mostly the Stocks Market and Cryptos.
 
-
-I always look to grow my personal and professional network. Feel free to connect via LinkedIn, email me to digocaragua@gmail.com or follow me on:
-
 Medium: @rmirandaa
 Instagram: @rmiranda.jpg
 Site: rodrigomiranda.eu
